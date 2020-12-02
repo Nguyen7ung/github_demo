@@ -13,6 +13,7 @@ and open the template in the editor.
         <p>Demo github</p>
         <?php
             echo "index 1";
+            echo "abc";
         ?>
     </body>
 </html>
